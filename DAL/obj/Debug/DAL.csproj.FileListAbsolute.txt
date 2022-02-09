@@ -1,0 +1,11 @@
+C:\Users\Next Design\Desktop\OOP u NET okolini\_Projekt\Socker\DAL\bin\Debug\DAL.dll
+C:\Users\Next Design\Desktop\OOP u NET okolini\_Projekt\Socker\DAL\bin\Debug\DAL.pdb
+C:\Users\Next Design\Desktop\OOP u NET okolini\_Projekt\Socker\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Next Design\Desktop\OOP u NET okolini\_Projekt\Socker\DAL\bin\Debug\RestSharp.dll
+C:\Users\Next Design\Desktop\OOP u NET okolini\_Projekt\Socker\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Next Design\Desktop\OOP u NET okolini\_Projekt\Socker\DAL\bin\Debug\RestSharp.xml
+C:\Users\Next Design\Desktop\OOP u NET okolini\_Projekt\Socker\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Next Design\Desktop\OOP u NET okolini\_Projekt\Socker\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Next Design\Desktop\OOP u NET okolini\_Projekt\Socker\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Next Design\Desktop\OOP u NET okolini\_Projekt\Socker\DAL\obj\Debug\DAL.dll
+C:\Users\Next Design\Desktop\OOP u NET okolini\_Projekt\Socker\DAL\obj\Debug\DAL.pdb
