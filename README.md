@@ -1,5 +1,5 @@
 # VUA-OOP.NET-project
- Soccer application - male and female World Cup championship 2019.
+ Soccer application - male and female World Cup Championship 2019.
  
  
  <b>Windows Forms</b>
